@@ -1,0 +1,15 @@
+{
+  "name": "databoard-core-ui",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Databoard core UI Services",
+  "main": "dist/index.js",
+  "author": "stefan Marx <smarx@apmcentral.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.1"
+  },
+  "scripts": {
+    "prepublish": "tsc"
+  }
+}
