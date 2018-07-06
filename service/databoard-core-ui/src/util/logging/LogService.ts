@@ -9,7 +9,8 @@ export enum LogLevel {
 
 export class LogService {
     category: string;
-    
+    public static Level = LogLevel;
+
     constructor(category: string ) {
         this.category = category;
     }
