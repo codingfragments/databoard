@@ -23,7 +23,8 @@ module.exports = function override(config, env) {
   };
 
      config = rewireLess.withLoaderOptions({
-        modifyVars: {  },
+      javascriptEnabled: true, 
+        modifyVars: {  }
        })(config, env);
   return config;
 };
