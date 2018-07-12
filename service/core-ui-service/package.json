@@ -1,5 +1,5 @@
 {
-  "name": "databoard-core-ui",
+  "name": "@databoard/core-ui-service",
   "version": "0.1.0",
   "private": true,
   "description": "Databoard core UI Services",
