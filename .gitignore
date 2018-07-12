@@ -1,4 +1,5 @@
 .vs/
+.vscode/
 lerna-debug.log
 .idea/
 **/node_modules/
