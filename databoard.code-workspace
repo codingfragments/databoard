@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "ui/dash-main"
+		},
+		{
+			"path": "ui/dash-dev"
+		},
+		{
+			"path": "service/core-ui-service"
+		}
+	],
+	"settings": {
+		"todo-tree.flat": true,
+		"todo-tree.expanded": true
+	}
+}
