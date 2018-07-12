@@ -1,3 +1,4 @@
+.vs/
 lerna-debug.log
-.idea
+.idea/
 **/node_modules/
